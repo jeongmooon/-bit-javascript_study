@@ -1,5 +1,5 @@
 const a = 1;
-let b = 10;
+let b;
 console.log("a의 값은",a);
 console.log("b의 값은",b);
 
